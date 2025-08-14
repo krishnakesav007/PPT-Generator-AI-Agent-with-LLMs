@@ -1,4 +1,4 @@
-# 🎤 AI Agent Presentation Generator
+# 🎤 PPT-Generator-AI-Agent-with-LLMs
 🔧 Project Overview:
 Technologies Used: Python, Google Gemini AI, python-pptx, Pillow, and more!
 Features: AI-powered content generation, professional slide layouts, error handling, and easy customization.
